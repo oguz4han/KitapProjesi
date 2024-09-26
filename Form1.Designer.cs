@@ -128,7 +128,7 @@
             this.radioButton1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(104, 22);
-            this.radioButton1.TabIndex = 5;
+            this.radioButton1.TabIndex = 6;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Kullanılmış";
             this.radioButton1.UseVisualStyleBackColor = true;
@@ -141,7 +141,7 @@
             this.radioButton2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(55, 22);
-            this.radioButton2.TabIndex = 6;
+            this.radioButton2.TabIndex = 7;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Sıfır";
             this.radioButton2.UseVisualStyleBackColor = true;
@@ -173,7 +173,7 @@
             this.btnListele.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnListele.Name = "btnListele";
             this.btnListele.Size = new System.Drawing.Size(131, 40);
-            this.btnListele.TabIndex = 7;
+            this.btnListele.TabIndex = 8;
             this.btnListele.Text = "Listele";
             this.btnListele.UseVisualStyleBackColor = true;
             this.btnListele.Click += new System.EventHandler(this.btnListele_Click);
@@ -184,7 +184,7 @@
             this.btnKaydet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnKaydet.Name = "btnKaydet";
             this.btnKaydet.Size = new System.Drawing.Size(131, 40);
-            this.btnKaydet.TabIndex = 8;
+            this.btnKaydet.TabIndex = 9;
             this.btnKaydet.Text = "Kaydet";
             this.btnKaydet.UseVisualStyleBackColor = true;
             this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
@@ -195,7 +195,7 @@
             this.btnSil.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnSil.Name = "btnSil";
             this.btnSil.Size = new System.Drawing.Size(131, 40);
-            this.btnSil.TabIndex = 9;
+            this.btnSil.TabIndex = 10;
             this.btnSil.Text = "Sil";
             this.btnSil.UseVisualStyleBackColor = true;
             this.btnSil.Click += new System.EventHandler(this.btnSil_Click);
@@ -206,7 +206,7 @@
             this.btnGuncelle.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnGuncelle.Name = "btnGuncelle";
             this.btnGuncelle.Size = new System.Drawing.Size(131, 40);
-            this.btnGuncelle.TabIndex = 10;
+            this.btnGuncelle.TabIndex = 11;
             this.btnGuncelle.Text = "Güncelle";
             this.btnGuncelle.UseVisualStyleBackColor = true;
             this.btnGuncelle.Click += new System.EventHandler(this.btnGuncelle_Click);
@@ -284,7 +284,7 @@
             this.cmbTur.Margin = new System.Windows.Forms.Padding(2);
             this.cmbTur.Name = "cmbTur";
             this.cmbTur.Size = new System.Drawing.Size(168, 26);
-            this.cmbTur.TabIndex = 13;
+            this.cmbTur.TabIndex = 5;
             // 
             // txtSayfaSayisi
             // 
@@ -292,7 +292,7 @@
             this.txtSayfaSayisi.Margin = new System.Windows.Forms.Padding(2);
             this.txtSayfaSayisi.Name = "txtSayfaSayisi";
             this.txtSayfaSayisi.Size = new System.Drawing.Size(168, 26);
-            this.txtSayfaSayisi.TabIndex = 14;
+            this.txtSayfaSayisi.TabIndex = 4;
             // 
             // Form1
             // 

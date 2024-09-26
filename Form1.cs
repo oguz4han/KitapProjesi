@@ -130,7 +130,7 @@ namespace KitapProjesi
 
 
         }
-
+        //deneme
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
             baglanti.Open();
